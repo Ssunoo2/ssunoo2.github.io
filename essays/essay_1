@@ -3,12 +3,11 @@ layout: essay
 type: essay
 title: “Most coding languages are basically the same”
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-01-18
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Javascript
+  - Learning
 ---
  
 ###Syntax and implementation versus grammar and logic
