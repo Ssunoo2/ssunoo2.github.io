@@ -13,7 +13,7 @@ labels:
  
 ###Syntax and implementation versus grammar and logic
 I’ve always been told by friends whose software engineering experience shadow mine that “most coding languages are basically the same”. I ask them, “how can this be” and they reply that learning one or two basic languages allows you to learn the grammar and reasoning behind code so that switching to another involves simply learning new syntax and implementation. Of course, this opinion has always been accompanied with a disclaimer that there are outliers that try to do things that the simpler languages cannot.
-
+ 
 ###Face to face with a new language
 Javascript, in my mind, has always been the magic that makes website applications work. I developed this idea when talking with others in my cohort that work with Javascript in their everyday jobs as well as studying curriculums of various coding bootcamps that promise to mold you into a budding software engineer. I’ve also encountered javascript before in modules that I engaged with in my free time before I decided to pursue a BS in Computer Science in several platforms such as CodeCademy and Odin project. Each time, I would digest the code to learn and stimulate my mind before returning to other tasks that would displace the coding practice that I had just learned. I am excited to actually implement some code into something tangible this semester!
 
