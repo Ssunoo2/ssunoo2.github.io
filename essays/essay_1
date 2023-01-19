@@ -10,6 +10,10 @@ labels:
   - Learning
 ---
  
+ 
+ 
+ <img width="300px" class="rounded float-start pe-4" src="../img/webentwicklung-t.jpg">
+ 
 ## Syntax and implementation versus grammar and logic
 I’ve always been told by friends whose software engineering experience shadow mine that “most coding languages are basically the same”. I ask them, “how can this be” and they reply that learning one or two basic languages allows you to learn the grammar and reasoning behind code so that switching to another involves simply learning new syntax and implementation. Of course, this opinion has always been accompanied with a disclaimer that there are outliers that try to do things that the simpler languages cannot.
  
