@@ -20,19 +20,28 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
+     {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics (2014-2018)",
+      "studyType": "B.A.",
+      "startDate": "2014-09-01",
+      "endDate": "2018-5-15",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -40,27 +49,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Self-employed",
+      "position": "FDM print and 3D design",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Freelance",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Process orders from clients and customers and troubleshoot problems that arise",
+        "Design printable objects with CAD for customers or personal use"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Diagnostic Laboratory Services",
+      "position": "Laboratory assistant",
+      "website": "https://dlslab.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2022-12-30
+      "summary": ""
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Perform medical procedures on patients",
+        "Process and interpretation of biological specimen"
       ]
     }
   ],
