@@ -10,17 +10,12 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ssunoo2", "url": "http://github.com/ssunoo2" },
-      { "network": "linkedin", "username": "ssunoo", "url": "https://www.linkedin.com/in/sean-suno-b89381262/" }//,
-      //{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-     // { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "ssunoo", "url": "https://www.linkedin.com/in/sean-suno-b89381262/" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "3D Printing" }//,
-    //{ "name": "Quantum Computing" },
-    //{ "name": "Robotics" },
-   // { "name": "3D Graphics" }
+    { "name": "3D Printing" }
   ],
   "skills": [
     {
