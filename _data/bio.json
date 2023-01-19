@@ -47,29 +47,30 @@
       ]
     }
   ],
-  "work": [
+  
+   "work": [
     {
-      "company": "Self-employed",
-      "position": "FDM print and 3D design",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2020-08-01",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Freelance",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Process orders from clients and customers and troubleshoot problems that arise",
-        "Design printable objects with CAD for customers or personal use"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-"company": "Diagnostic Laboratory Services",
-      "position": "Laboratory assistant",
-      "website": "https://dlslab.com/",
-      "startDate": "2018-06-01",
-      "endDate": "2022-12-30",
-      "summary": ""
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
       "highlights": [
-        "Perform medical procedures on patients",
-        "Process and interpretation of biological specimen"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
