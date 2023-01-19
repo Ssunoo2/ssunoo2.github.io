@@ -1,54 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Are most coding languages basically the same?"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-08
 published: true
 labels:
   - Engineering
 ---
+###Syntax and implementation versus grammar and logic
+I’ve always been told by friends whose software engineering experience shadow mine that “most coding languages are basically the same”. I ask them, “how can this be” and they reply that learning one or two basic languages allows you to learn the grammar and reasoning behind code so that switching to another involves simply learning new syntax and implementation. Of course, this opinion has always been accompanied with a disclaimer that there are outliers that try to do things that the simpler languages cannot.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+###Face to face with a new language
+Javascript, in my mind, has always been the magic that makes website applications work. I developed this idea when talking with others in my cohort that work with Javascript in their everyday jobs as well as studying curriculums of various coding bootcamps that promise to mold you into a budding software engineer. I’ve also encountered javascript before in modules that I engaged with in my free time before I decided to pursue a BS in Computer Science in several platforms such as CodeCademy and Odin project. Each time, I would digest the code to learn and stimulate my mind before returning to other tasks that would displace the coding practice that I had just learned. I am excited to actually implement some code into something tangible this semester!
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+###A familiar face
+Javascript itself is reminiscent of Java programming. The words of my peers seemed to manifest themselves as the basic grammar and languages of my previous academic experiences lent themselves towards easy and swift interpretations of the modules I experienced in my first software engineering class. The syntax differed slightly, but I know that experience and practice will lead to a competent level of fluency; and I am excited for that, as the constant barrage of practice exercises is sure to hone my programming proficiency. 
+The WODs(workout of the day) that are required for the class are a great format to practice your abilities and identify and learn from your mistakes. Their repeatability is encouraging, as there is often more than one way to complete a task and by engaging in these challenges, you can hope to improve your understanding of the language and minimize the time it takes to identify and implement solutions to problems.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+###Learning from mistakes
+One of my favorite parts about learning is making mistakes. I’ve tried my damndest over the years to separate myself from anxiety-driven perfectionism. I’ve felt that previous academic experiences strongly valued high marks over actual learning. I’ve studied Oxidative phosphorylation in upwards of four classes in the past and still can’t tell you what any of the processes of individual enzymes are.
+	Programming, on the other hand, has always felt like constant trial and error. Sometimes your blood pressure rises from compilation errors resulting from a missing comma that eludes your gaze for longer than you care to admit, but ultimately the result that you desire is typically achievable and getting there is a matter of dispelling a barrage of stimulating puzzles. Being able to analyze why you failed one occasion and improving upon yourself is an incredibly valuable trait that is necessary in computer science. If Javascript is one step towards becoming a better version of myself, then I am excited for what’s to come!
