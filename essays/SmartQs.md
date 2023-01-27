@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: “Most coding languages are basically the same”
+title: “May I please borrow your mind?”
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
@@ -12,7 +12,7 @@ essayurl: https://ssunoo2.github.io/essays/essay_1
 ---
   
  
-  <img width="300px" class="rounded float-start pe-4" src="../img/webentwicklung-t.jpg">
+  <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/SmartqsIMG.png">
 
 ## A meeting of minds
 The internet is wonderful in that it has the potential to connect the minds of almost everybody on the planet should they seek to connect to one another. It also is cursed by the sheer amount of information that is committed to the internet by very variable levels of intelligence and temperaments. This often leads to garbage on the internet where one would otherwise seek gold. 
