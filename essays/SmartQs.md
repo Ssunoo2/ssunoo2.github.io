@@ -9,7 +9,7 @@ labels:
   - StackOverflow
   - Learning
 - Questions
-essayurl: https://ssunoo2.github.io/essays/essay_1
+essayurl: https://ssunoo2.github.io/essays/SmartQs
 ---
 
  <img width="300px" class="rounded float-start pe-4" src="../img/webentwicklung-t.jpg">
