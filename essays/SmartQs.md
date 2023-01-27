@@ -27,9 +27,8 @@ The internet is wonderful in that it has the potential to connect the minds of a
 This is an example of a poorly asked question that may not result in anyone taking their time to respond. For starters, the title is simply “get file’s last modified date stamp in unix”. The title screams laziness from the first letter not being capitalized and fails to compose an actual question. It’s more of a segment of a question. From the title alone, I’m sure many developers can assume what is being asked, but the title itself does not necessarily entice one to respond. 
 	The body of the question also simply states: “I need to find the file last modified date stamp in Unix. Please help me with a solution” and is accompanied by a screenshot of some disembodied code and no additional details. This is the equivalent of saying, I am trying to find A, please spend your time explaining something to me that I probably should have just typed into a google search bar.
 	The sheer lack of effort in the post seems like it would annoy someone who is capable of helping. They have omitted what operations they have previously tried with no avail and have abandoned grammar and pleasantries in their request. If they had simply stated something along the lines of: “I am struggling to find the file last modified date stamp in Unix and have tried A, B, and C. I have also searched for documentation but have not found any useful links that address my question. I would appreciate it greatly if anyone could shed light on my issue and save me a world of time and frustration.”, then they would likely not annoy and repel those that would likely be able to shed light on their issues.
-Link to the question for those curious: 
-
-[Bad Question](https://stackoverflow.com/questions/75255241/get-files-last-modified-date-stamp-in-unix)
+	
+Link to the question for those curious: [Bad Question](https://stackoverflow.com/questions/75255241/get-files-last-modified-date-stamp-in-unix)
 
 
 ## A Good Question:
@@ -38,5 +37,4 @@ The question being discussed has a title that says, “How do I check out a remo
 	Expanding the question reveals a concise but descriptive illustration of the issue at hand, detailing that a branch called “test” with “git push origin test” was pushed to a shared repository. The question’s author then describes the name of what he can see and then posits his problem: “How do I check out the remote test branch?” This is followed by two bullet-pointed lines of code that he’s tried in the command line and their outputs, which do not align with his desired outcome. 
 	In total, the question is two lines and two bullet points. The code is spaced out nicely so it is easy to read and it also provides a very clear description of the issue at hand, what has been tried (and their outcomes) and the desired (but not yet reached) effect. Though it is a noobie question, this shows prospective respondents that effort has been put into solving the problem and that the problem has been formatted in a legible and descriptive way so as to provide as much information as possible in the minimal amount of text. It is easy to 
 
-Link to the question for those curious: 
-[Good Question](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
+Link to the question for those curious: [Good Question](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
