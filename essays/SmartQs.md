@@ -1,38 +1,30 @@
 ---
 layout: essay
 type: essay
-title: “May I borrow your mind?”
+title: “Most coding languages are basically the same”
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-26
+date: 2023-01-18
 published: true
 labels:
-  - StackOverflow
+  - Javascript
   - Learning
-- Questions
-essayurl: https://ssunoo2.github.io/essays/SmartQs
+essayurl: https://ssunoo2.github.io/essays/essay_1
 ---
-
+  
+ 
+ 
  <img width="300px" class="rounded float-start pe-4" src="../img/webentwicklung-t.jpg">
+ 
+## Syntax and implementation versus grammar and logic
+I’ve always been told by friends whose software engineering experience shadow mine that “most coding languages are basically the same”. I ask them, “how can this be” and they reply that learning one or two basic languages allows you to learn the grammar and reasoning behind code so that switching to another involves simply learning new syntax and implementation. Of course, this opinion has always been accompanied with a disclaimer that there are outliers that try to do things that the simpler languages cannot.
+ 
+## Face to face with a new language
+Javascript, in my mind, has always been the magic that makes website applications work. I developed this idea when talking with others in my cohort that work with Javascript in their everyday jobs as well as studying curriculums of various coding bootcamps that promise to mold you into a budding software engineer. I’ve also encountered javascript before in modules that I engaged with in my free time before I decided to pursue a BS in Computer Science in several platforms such as CodeCademy and Odin project. Each time, I would digest the code to learn and stimulate my mind before returning to other tasks that would displace the coding practice that I had just learned. I am excited to actually implement some code into something tangible this semester!
 
-##A meeting of minds
-The internet is wonderful in that it has the potential to connect the minds of almost everybody on the planet should they seek to connect to one another. It also is cursed by the sheer amount of information that is committed to the internet by very variable levels of intelligence and temperaments. This often leads to garbage on the internet where one would otherwise seek gold. 
-	The world of computing is encompassed by very large communities and repositories of forums containing discussions and troubleshooting for many of the near infinite number of issues that arrive while exercising computer science. These are asked and answered by people with varying degrees of experience and thus a form of etiquette has been formed so as to not disrespect those that you wish to answer your questions.
-	Questions answered should be well researched ahead of time and composed in a readable and concise way that details exactly when/where/what the problem entails. It may also be helpful to provide what solutions one has tried already so as to not receive redundant suggestions for troubleshooting the issue. 
-	Remember that questions asked on the internet are petitioning those more experienced (and potentially more busy) for their most valuable resource: time. It is crucial to respect the time of those you wish to engage with by carefully composing your message and making sure that the solutions are not simply a google search away, lest you communicate to those that help that you value their time less than a few minutes (or less!) of your own. 
-	Here are some examples of good and bad questions:
+## A familiar face
+Javascript itself is reminiscent of Java programming. The words of my peers seemed to manifest themselves as the basic grammar and languages of my previous academic experiences lent themselves towards easy and swift interpretations of the modules I experienced in my first software engineering class. The syntax differed slightly, but I know that experience and practice will lead to a competent level of fluency; and I am excited for that, as the constant barrage of practice exercises is sure to hone my programming proficiency. 
+The WODs(workout of the day) that are required for the class are a great format to practice your abilities and identify and learn from your mistakes. Their repeatability is encouraging, as there is often more than one way to complete a task and by engaging in these challenges, you can hope to improve your understanding of the language and minimize the time it takes to identify and implement solutions to problems.
 
-##A Bad Question
-
-This is an example of a poorly asked question that may not result in anyone taking their time to respond. For starters, the title is simply “get file’s last modified date stamp in unix”. The title screams laziness from the first letter not being capitalized and fails to compose an actual question. It’s more of a segment of a question. From the title alone, I’m sure many developers can assume what is being asked, but the title itself does not necessarily entice one to respond. 
-The body of the question also simply states: “I need to find the file last modified date stamp in Unix. Please help me with a solution” and is accompanied by a screenshot of some disembodied code and no additional details. This is the equivalent of saying, I am trying to find A, please spend your time explaining something to me that I probably should have just typed into a google search bar.
-The sheer lack of effort in the post seems like it would annoy someone who is capable of helping. They have omitted what operations they have previously tried with no avail and have abandoned grammar and pleasantries in their request. If they had simply stated something along the lines of: “I am struggling to find the file last modified date stamp in Unix and have tried A, B, and C. I have also searched for documentation but have not found any useful links that address my question. I would appreciate it greatly if anyone could shed light on my issue and save me a world of time and frustration.”, then they would likely not annoy and repel those that would likely be able to shed light on their issues.
-Link to the question for those curious: https://stackoverflow.com/questions/75255241/get-files-last-modified-date-stamp-in-unix
-
-
-##A Good Question:
-
-The question being discussed has a title that says, “How do I check out a remote Git branch”. At first glance, this seems like quite the generic, low-effort question, but it is likely one that is asked by a noobie and is also something that may be nostalgic for once-noobie, now-seasoned developers.
-	Expanding the question reveals a concise but descriptive illustration of the issue at hand, detailing that a branch called “test” with “git push origin test” was pushed to a shared repository. The question’s author then describes the name of what he can see and then posits his problem: “How do I check out the remote test branch?” This is followed by two bullet-pointed lines of code that he’s tried in the command line and their outputs, which do not align with his desired outcome. 
-In total, the question is two lines and two bullet points. The code is spaced out nicely so it is easy to read and it also provides a very clear description of the issue at hand, what has been tried (and their outcomes) and the desired (but not yet reached) effect. Though it is a noobie question, this shows prospective respondents that effort has been put into solving the problem and that the problem has been formatted in a legible and descriptive way so as to provide as much information as possible in the minimal amount of text. It is easy to 
-
-Link to the question for those curious: https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch
+## Learning from mistakes
+One of my favorite parts about learning is making mistakes. I’ve tried my damndest over the years to separate myself from anxiety-driven perfectionism. I’ve felt that previous academic experiences strongly valued high marks over actual learning. I’ve studied Oxidative phosphorylation in upwards of four classes in the past and still can’t tell you what any of the processes of individual enzymes are.
+	Programming, on the other hand, has always felt like constant trial and error. Sometimes your blood pressure rises from compilation errors resulting from a missing comma that eludes your gaze for longer than you care to admit, but ultimately the result that you desire is typically achievable and getting there is a matter of dispelling a barrage of stimulating puzzles. Being able to analyze why you failed one occasion and improving upon yourself is an incredibly valuable trait that is necessary in computer science. If Javascript is one step towards becoming a better version of myself, then I am excited for what’s to come!
