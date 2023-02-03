@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "ssunoo2", "url": "http://github.com/ssunoo2" },
       { "network": "linkedin", "username": "ssunoo", "url": "https://www.linkedin.com/in/sean-suno-b89381262/" }
-    ]
+    ] 
   },
   "interests": [
   { "name": "Software Engineering" },
