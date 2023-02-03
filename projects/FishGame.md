@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/fishcropped.png
 title: "Vacay"
-date: 2015
+date: 2022
 published: true
 labels:
   - Java
