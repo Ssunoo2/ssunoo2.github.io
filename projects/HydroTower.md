@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/Hydro.png
+title: "Hydro Towers"
+date: 2020
 published: true
 labels:
   - Fusion360
