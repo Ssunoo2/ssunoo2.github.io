@@ -6,7 +6,7 @@ title: "Hydro Towers"
 date: 2020
 published: true
 labels:
-  - Fusion360
+  - CAD
   - FDM Printing
   - Hydroponics
 summary: "A solution to urban farming with minimal maintenance."
