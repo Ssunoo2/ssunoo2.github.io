@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hydroponics1.png
+image: img/hydrologocropped.png
 title: "Hydro Towers"
 date: 2020
 published: true
