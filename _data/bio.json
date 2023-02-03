@@ -15,7 +15,7 @@
   },
   "interests": [
   { "name": "Software Engineering" },
-    { "name": "3D Printing" }
+    { "name": "CAD" }
   ],
   "skills": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -50,27 +50,28 @@
   
    "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Diagnostic Laboratory Services",
+      "position": "Laboratory",
+      "website": "DLSLAB.com",
+      "startDate": "2018-08-01",
+      "endDate": "2022-12-29",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Perform medical laboratory procedures and analyze results",
+        "Process specimens and service patients"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Freelance",
+      "position": "Fused Deposition Modeling and Rapid Protoyping",
+      "website": "",
+      "startDate": "2021-12-22",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Modeling and production including machine configuration and material selection for additive manufacturing ",
+        "Concept design and implementation, catering to client and customer’s specifications
+"
       ]
     }
   ],
