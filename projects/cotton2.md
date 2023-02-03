@@ -4,7 +4,7 @@ type: project
 image: img/hydroponics1.png
 title: "Cotton"
 date: 2014
-published: true
+published: false
 labels:
   - Lisp
   - GitHub
