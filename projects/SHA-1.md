@@ -6,9 +6,9 @@ title: "Sha-1 Hashing"
 date: 2020
 published: true
 labels:
-  - Fusion360
-  - 3D printing
-  - GitHub
+  - C Programming
+  - Cryptography
+  - Hash Algorithms
 summary: "A solution to urban farming with minimal maintenance."
 ---
 
