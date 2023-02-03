@@ -7,8 +7,8 @@ date: 2020
 published: true
 labels:
   - Fusion360
-  - 3D printing
-  - GitHub
+  - FDM Printing
+  - Hydroponics
 summary: "A solution to urban farming with minimal maintenance."
 ---
 
