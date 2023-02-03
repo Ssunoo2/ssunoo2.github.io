@@ -9,7 +9,7 @@ published: true
 labels:
   - Javascript
   - Learning
-essayurl: https://ssunoo2.github.io/essays/essay_1
+essayurl: https://ssunoo2.github.io/essays/essay3
 ---
   
 ##To Less of the Same
