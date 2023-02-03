@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: “May I please borrow your mind?”
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-18
+date: 2023-01-26
 published: true
 labels:
   - Javascript
