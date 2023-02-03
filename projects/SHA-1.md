@@ -12,3 +12,4 @@ labels:
 summary: "A solution to urban farming with minimal maintenance."
 ---
 
+<img class="img-fluid" src="...img/sha1image2.jpg">
