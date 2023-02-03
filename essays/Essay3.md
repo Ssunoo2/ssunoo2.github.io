@@ -1,15 +1,13 @@
-
 ---
 layout: essay
 type: essay
-title: “To less of the same”
+title: “To Less of the Same”
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-01
+date: 2023-01-18
 published: true
 labels:
   - Javascript
   - Learning
-  - Goals
 essayurl: https://ssunoo2.github.io/essays/essay3
 ---
   
