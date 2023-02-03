@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/hydrologocropped.png
+image: img/Sha1Cropped.png
 title: "Hydro Towers"
 date: 2020
-published: false
+published: true
 labels:
   - Fusion360
   - 3D printing
