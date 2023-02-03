@@ -19,5 +19,7 @@ I started with some STLs I found online at: https://www.thingiverse.com/thing:24
 
 I went to the local hardware store and found 2 gallon buckets that I deemed sufficient volume for a week of watering and loaded up Fusion 360. The adapter fits the original modular towers and fits snugly on top of a 2 gallon bucket. It has holes for electrical cords from pond/aquarium pumps and additional support structures underneath the lid. Direct sunlight and the weight of the towers as they house growing plants led to worries that the lid could break or warp. To combat this, I also designed rings to hold ½ inch PVC pipes that could act similar to legs of a table adn provide additional support
 
+Overall, it was a fun exercise that stands out to me as being one of the first CAD files I used to solve an everyday problem that I faced without using a spool of duct tape. To this day, I still often use CAD and FDM printing to remedy many of my everyday problems. 
+
 STL https://www.thingiverse.com/thing:5798196
 
