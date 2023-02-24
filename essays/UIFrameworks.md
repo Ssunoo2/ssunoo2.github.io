@@ -1,4 +1,4 @@
-	---
+---
 layout: essay
 type: essay
 title: “Laziness is the mother of invention”
