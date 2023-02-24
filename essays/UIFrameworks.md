@@ -1,15 +1,14 @@
 ---
 layout: essay
 type: essay
-title: “Laziness is the mother of invention”
+title: “laziness the moth of frameworks?”
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
 labels:
-  - UI Frameworks
+  - Bootstrap 5
   - HTML
   - CSS
-  - Bootstrap 5
 essayurl: https://ssunoo2.github.io/essays/UIFrameworks
 ---
   
