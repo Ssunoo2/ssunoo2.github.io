@@ -10,7 +10,7 @@ labels:
   - HTML
   - CSS
   - Bootstrap 5
-essayurl: https://ssunoo2.github.io/essays/essay_1
+essayurl: https://ssunoo2.github.io/essays/UIFrameworks
 ---
   
   It is often said that laziness is the mother of invention. This is evident as most of the everyday technology that we engage with is meant to simplify everyday tasks from smartphones facilitating communication to vehicles expediting travel times to the internet providing access to vast oceans of information. So it is no surprise that when languages such as HTML and CSS were created to build webpages that engineers using them would eventually try to simplify their use in a way that saves them time.
