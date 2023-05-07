@@ -12,7 +12,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
  
-<img class="img-fluid" src="...img/fishart.jpg">
+<img class="img-fluid" src="../img/fishart.jpg">
 This was a project that culminated over the course of ICS 211 at KCC during the spring semester of 2022. It was an exercise to work with a team and do code reviews, while coding to meet specific criteria given by the instructor. 
 
 
@@ -20,4 +20,4 @@ The game takes place over a simulated year, indicated by each month of the year 
 
 This program was a great exercise to flex our Java skills that we were developing over the course of the previous year and allowed us to implement a tangible program with a function. It also allowed us to work in groups, for better or worse, and got us acclimated to reviewing one another's code and giving feedback/help where applicable.
 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+[Fish Game](https://github.com/Ssunoo2/Fishing-Game)
