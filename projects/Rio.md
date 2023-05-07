@@ -22,8 +22,9 @@ Here is an image from our landing page
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/landing-page-2.png" class="img-thumbnail" >
+  <img src="../img/landing-page-2.png" class="img-thumbnail" >
 </div>
 
 Check out our homepage below!
+
 [rio-connect.github.io](https://rio-connect.github.io/)
