@@ -14,6 +14,7 @@ essayurl: https://ssunoo2.github.io/essays/final
   
  
   <img width="300px" class="rounded float-start pe-4" src="../img/essay3.jpg">
+  
 ## Teamwork makes the dream work 
 My friends would always joke and say things like: “anyone can program if they had access to a google search bar”. I tend to agree that the internet is a vast ocean of information and one can learn virtually anything they dump their time into if they have the discipline to do so. But real world software engineering usually means working with a team on a variety of different projects that span a large swathe of functionalities and intentions. 
 
