@@ -18,3 +18,6 @@ Rio Connect is a web based application that catalogs the registered independent 
 
 The creation of the app allowed practice with synchronizing front-end with back-end development as well as database management. Monitoring via application testing and performance via Monti APM were also important as were deployment through Digital Ocean. Agile project management allowed successful delegation and execution of issues and facilitated communication with the team alongside bi-weekly meetings. 
 
+
+Check out our homepage below!
+Source: <a href="rio-connect.github.io">Rio Connect</a>
