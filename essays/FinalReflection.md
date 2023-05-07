@@ -4,7 +4,7 @@ type: essay
 title: “Final Essay”
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-02
-published: false
+published: true
 labels:
   - Agile Project Management
   - Ethics
