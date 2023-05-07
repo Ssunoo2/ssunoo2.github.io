@@ -23,4 +23,4 @@ Here is an image from our landing page
 <img class="img-fluid" src="img/landing-page-2.png">
 
 Check out our homepage below!
-Source: <a href="rio-connect.github.io">Rio Connect</a>
+Source: <a href="[rio-connect.github.io](https://rio-connect.github.io/)">Rio Connect</a>
