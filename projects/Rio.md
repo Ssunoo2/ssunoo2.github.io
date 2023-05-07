@@ -20,7 +20,10 @@ The creation of the app allowed practice with synchronizing front-end with back-
 
 Here is an image from our landing page
 
-<img class="img-fluid" src="img/landing-page-2.png">
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/landing-page-2.png" class="img-thumbnail" >
+</div>
 
 Check out our homepage below!
-Source: <a href="[rio-connect.github.io](https://rio-connect.github.io/)">Rio Connect</a>
+[rio-connect.github.io](https://rio-connect.github.io/)
