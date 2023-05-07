@@ -12,7 +12,7 @@ labels:
 summary: "A solution to urban farming with minimal maintenance."
 ---
 
-<img class="img-fluid" src="...img/sha1image2.jpg">
+<img class="img-fluid" src="../img/sha1image2.jpg">
 
 We did this project in our 212 class for our final project and it was written as the culmination of our C programming language knowledge. It was a solo project and involved many functions as well as bitwise operators to generate a digest given an input. 
 
