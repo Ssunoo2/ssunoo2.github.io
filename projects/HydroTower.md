@@ -4,7 +4,7 @@ type: project
 image: img/hydrologocropped.png
 title: "Hydro Towers"
 date: 2020
-published: true
+published: false
 labels:
   - CAD
   - FDM Printing
