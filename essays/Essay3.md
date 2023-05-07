@@ -4,7 +4,7 @@ type: essay
 title: “To Less of the Same”
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
-published: true
+published: false
 labels:
   - Javascript
   - Learning
