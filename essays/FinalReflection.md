@@ -8,7 +8,7 @@ published: true
 labels:
   - Agile Project Management
   - Ethics
-essayurl: https://ssunoo2.github.io/essays/final
+essayurl: https://ssunoo2.github.io/essays/finalReflection314
 ---
   
   
