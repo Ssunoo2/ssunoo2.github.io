@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: “Final Essay”
+title: “Software Engineering and Collaboration”
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-02
 published: true
