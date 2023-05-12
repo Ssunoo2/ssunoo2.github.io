@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Sean Sunoo",
+    "label": "Student",
+    "picture": "https://github.com/ssunoo2.png",
+    "email": "ssunoo@hawaii.edu",
+    "phone": "808-457-7166",
+    "website": "https://ssunoo2.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "ssunoo2", "url": "http://github.com/ssunoo2" },
+      { "network": "linkedin", "username": "ssunoo", "url": "https://www.linkedin.com/in/sean-suno-b89381262/" }
+    ] 
+  },
+  "interests": [
+  { "name": "Software Engineering" },
+    { "name": "CAD" },
+    { "name": "Fused Deposition Modeling" }
+  ],
+  "skills": [
+    {
+    "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics (2014-2018)",
+      "studyType": "B.A.",
+      "startDate": "2014-09-01",
+      "endDate": "2018-05-15",
+      "courses": [
+      ]
+    }
+  ],
+  
+   "work": [
+    {
+      "company": "Diagnostic Laboratory Services",
+      "position": "Laboratory",
+      "website": "DLSLAB.com",
+      "startDate": "2018-08-01",
+      "endDate": "2022-12-29",
+      "summary": "",
+      "highlights": [
+        "Perform medical laboratory procedures and analyze results",
+        "Process specimens and service patients"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Fused Deposition Modeling and Rapid Protoyping",
+      "website": "",
+      "startDate": "2021-12-22",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Modeling and production including machine configuration and material selection for additive manufacturing ",
+        "Concept design and implementation, catering to client and customer’s specifications"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+ 
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
