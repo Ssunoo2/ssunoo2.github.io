@@ -13,6 +13,7 @@ summary: "A responsive web application for travel planning that my team develope
 ---
  
 <img class="img-fluid" src="../img/fishart.jpg">
+
 This was a project that culminated over the course of ICS 211 at KCC during the spring semester of 2022. It was an exercise to work with a team and do code reviews, while coding to meet specific criteria given by the instructor. 
 
 
