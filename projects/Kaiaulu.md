@@ -27,8 +27,6 @@ summary: "Automating data retrieval and analysis for software development commun
 - **Languages/Tools**: R, CRON, RESTful APIs, JSON  
 - **Platforms**: GitHub, JIRA, Bugzilla  
 
-Here’s an image from the dashboard visualizing the project data:
-
 <div class="text-center p-4">
   <img src="../img/kaiaulu-dashboard.png" class="img-thumbnail" >
 </div>
