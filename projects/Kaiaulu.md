@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kaiaulu-thumbnail.png
+image: img/KaiauluThumbnail.png
 title: "Capstone Project: Kaiaulu"
 date: 2024
 published: true
