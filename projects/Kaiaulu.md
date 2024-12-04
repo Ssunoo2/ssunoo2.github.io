@@ -13,7 +13,7 @@ labels:
 summary: "Automating data retrieval and analysis for software development communities"
 ---
 
-## Capstone Project: Kaiaulu
+## Capstone Project: [Kaiaulu](https://github.com/sailuh/kaiaulu)
 
 **Kaiaulu** is a data automation and analysis platform developed as a capstone project to analyze software development communities and identify Social Smells. This project automated the retrieval of project data from tools like GitHub, JIRA, and Bugzilla using APIs, processed the data in JSON format, and prepared it for comprehensive analysis. The results provided valuable insights into developer activity and trends within open-source communities.
 
