@@ -1,111 +1,119 @@
 {
   "basics": {
     "name": "Sean Sunoo",
-    "label": "Student",
+    "label": "Computer Science Graduate",
     "picture": "https://github.com/ssunoo2.png",
-    "email": "ssunoo@hawaii.edu",
+    "email": "seansunoo@gmail.com",
     "phone": "808-457-7166",
     "website": "https://ssunoo2.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "ssunoo2", "url": "http://github.com/ssunoo2" },
-      { "network": "linkedin", "username": "ssunoo", "url": "https://www.linkedin.com/in/sean-suno-b89381262/" }
-    ] 
-  },
-  "interests": [
-  { "name": "Software Engineering" },
-    { "name": "CAD" },
-    { "name": "Fused Deposition Modeling" }
-  ],
-  "skills": [
-    {
-    "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS"]
+    "summary": "Recent Computer Science graduate with hands-on experience in API integration, data automation, and 3D prototyping. Proven track record of leveraging technical expertise to deliver innovative solutions, achieve over 9,000 sales, and analyze complex datasets with a passion for solving technical challenges in dynamic environments.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
-    }
-  ],
+    "profiles": [
+      { "network": "GitHub", "username": "ssunoo2", "url": "http://github.com/ssunoo2" },
+      { "network": "LinkedIn", "username": "ssunoo", "url": "https://www.linkedin.com/in/sean-suno-b89381262/" }
+    ]
+  },
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Information and Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-09-01",
-      "endDate": "Present",
-      "courses": [
+      "endDate": "2024-12-01",
+      "courses": [],
+      "highlights": [
+        "Capstone Project: Kaiaulu (details below)",
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Economics (2014-2018)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Economics",
       "studyType": "B.A.",
       "startDate": "2014-09-01",
       "endDate": "2018-05-15",
-      "courses": [
-      ]
+      "highlights": ["Minor in Biology", "Major GPA: 3.54", "Golden Key Honor Society",
+        "Omicron Delta Epsilon - International Economics Honor Society"]
+    },
+    {
+      "institution": "Punahou School",
+      "area": "High School Diploma",
+      "studyType": "Diploma",
+      "startDate": "2008-09-01",
+      "endDate": "2012-05-15"
     }
   ],
-  
-   "work": [
+  "work": [
     {
-      "company": "Diagnostic Laboratory Services",
-      "position": "Laboratory",
-      "website": "DLSLAB.com",
+      "company": "Pinnacle Prints LLC",
+      "position": "Owner, 3D Printing and Prototyping Services",
+      "website": "",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
+      "highlights": [
+        "Achieved 9,000+ online sales of custom 3D-printed products by implementing effective e-commerce strategies.",
+        "Designed, modeled, and manufactured high-precision 3D-printed products using CAD software, tailoring designs to client specifications.",
+        "Configured, managed, and maintained a fleet of 3D printers, performing diagnostics, repairs, and upgrades.",
+        "Researched and selected optimal materials for additive manufacturing, balancing durability, cost, and aesthetic appeal.",
+        "Pioneered efficient production workflows, reducing turnaround times and scaling operations to handle increasing demand."
+      ]
+    },
+    {
+      "company": "Diagnostic Laboratory Services, Inc.",
+      "position": "Phlebotomist/Laboratory Assistant",
+      "website": "https://www.dlslab.com",
       "startDate": "2018-08-01",
       "endDate": "2022-12-29",
-      "summary": "",
       "highlights": [
-        "Perform medical laboratory procedures and analyze results",
-        "Process specimens and service patients"
-      ]
-    },
-    {
-      "company": "Freelance",
-      "position": "Fused Deposition Modeling and Rapid Protoyping",
-      "website": "",
-      "startDate": "2021-12-22",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Modeling and production including machine configuration and material selection for additive manufacturing ",
-        "Concept design and implementation, catering to client and customer’s specifications"
+        "Conducted 1,000+ phlebotomy procedures, ensuring patient comfort and specimen integrity.",
+        "Processed and handled biological specimens for laboratory analysis.",
+        "Managed inventory and lab sanitation, including supply documentation and ordering."
       ]
     }
   ],
-  "volunteer": [
+  "projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "name": "Capstone Project: Kaiaulu",
+      "description": "API Integration and Data Automation",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+        "Developed automated data retrieval processes using CRON jobs to schedule and execute regular tasks.",
+        "Integrated project management tools via APIs, including OpenHub's Ohloh API, to fetch JSON-formatted data.",
+        "Transformed raw data into actionable insights for software development community analysis."
+      ],
+      "keywords": ["CRON", "APIs", "JSON", "Data Analysis"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01"
     }
   ],
- 
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Java", "C", "C++", "Python", "R", "HTML", "CSS"]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "keywords": ["Meteor", "React", "RESTful APIs", "CRON", "Git"]
+    },
+    {
+      "name": "Data Management",
+      "keywords": ["SQL", "JSON", "Automated Data Retrieval", "Data Analysis"]
+    },
+    {
+      "name": "Software",
+      "keywords": ["Microsoft Office Suite", "Google Workspace"]
+    }
+  ],
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "CAD" },
+    { "name": "Additive Manufacturing" }
+  ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
