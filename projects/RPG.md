@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ManafestDestinyThumbnail.png
+image: img/ManafestDestinyThumbnail.jpg
 title: "RPG Management Platform"
 date: 2023
 published: true
