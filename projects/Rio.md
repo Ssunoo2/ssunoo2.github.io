@@ -6,25 +6,37 @@ title: "Rio Connect"
 date: 2023
 published: true
 labels:
-  - React Bootstrap
+  - Meteor
+  - React
   - MongoDB
-  - 
-summary: "Facilitating club discovery by students at UH Manoa"
+  - Agile Development
+summary: "A platform for facilitating club discovery at UH Manoa"
 ---
 
-## Rio-Connect
+## Rio Connect
 
-Rio Connect is a web based application that catalogs the registered independent organizations (RIOs) at the University of Hawaii at Manoa and facilitates club discovery. Students can create accounts and browse by club type corresponding to their particular interests and join the clubs of their choosing, accessing club information such as leadership contacts and overall club descriptions. 
+Rio Connect is a web-based application built with **Meteor** and **React** that catalogs the Registered Independent Organizations (RIOs) at the University of Hawaii at Manoa. The platform simplifies club discovery for students by providing an intuitive interface to browse and join clubs based on their interests. Students can create accounts, access detailed club information such as leadership contacts and descriptions, and manage their memberships.
 
-The creation of the app allowed practice with synchronizing front-end with back-end development as well as database management. Monitoring via application testing and performance via Monti APM were also important as were deployment through Digital Ocean. Agile project management allowed successful delegation and execution of issues and facilitated communication with the team alongside bi-weekly meetings. 
+The development of Rio Connect emphasized full-stack development using **Meteor** for backend functionality and real-time updates, **React** for a dynamic and responsive user interface, and **MongoDB** for database management. The project also incorporated application performance monitoring via **Monti APM** and was deployed using **Digital Ocean**. Agile methodologies, including bi-weekly meetings and delegated tasks, ensured the successful completion of the app.
 
-Here is an image from our landing page
+### Key Features
+- **Dynamic Club Catalog**: Students can browse and filter RIOs by type and interests.  
+- **User Accounts**: Secure registration and login functionality to manage student memberships.  
+- **Real-Time Updates**: Built with Meteor to provide reactive data updates for club information and user actions.  
+- **Responsive Design**: Utilized React and Bootstrap to create a user-friendly, mobile-compatible interface.  
+- **Efficient Deployment**: Hosted on Digital Ocean for reliable accessibility.
 
+### Technologies Used
+- **Frontend**: React, Bootstrap  
+- **Backend**: Meteor, MongoDB  
+- **Performance Monitoring**: Monti APM  
+- **Deployment**: Digital Ocean  
+
+Here is an image from our landing page:
 
 <div class="text-center p-4">
   <img src="../img/landing-page-2.png" class="img-thumbnail" >
 </div>
 
-Check out our homepage below!
-
-[rio-connect.github.io](https://rio-connect.github.io/)
+Check out our homepage below!  
+[Rio Connect](https://rio-connect.github.io/)
