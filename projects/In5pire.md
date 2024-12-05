@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/in5pirelogo.png
+image: img/GraphPlaceholder.png
 title: "Financial Scenario Management Application"
 date: 2024
 published: true
