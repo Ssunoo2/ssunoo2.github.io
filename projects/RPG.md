@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ManafestDestinyThumbnail.jpg
 title: "RPG Management Platform"
-date: 2023
+date: 2024
 published: true
 labels:
   - Meteor
