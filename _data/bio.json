@@ -64,6 +64,18 @@
       ]
     },
     {
+      "name": "Capstone Project: Kaiaulu",
+      "description": "API Integration and Data Automation",
+      "highlights": [
+        "Developed automated data retrieval processes using CRON jobs to schedule and execute regular tasks.",
+        "Integrated project management tools via APIs: Connected with platforms such as Github, JIRA and Bugzilla API to fetch project data in JSON format, facilitating comprehensive data analysis.",
+        "Transformed raw data into actionable insights for software development community analysis."
+      ],
+      "keywords": ["CRON", "APIs", "JSON", "Data Analysis"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01"
+    },
+    {
       "company": "Diagnostic Laboratory Services, Inc.",
       "position": "Phlebotomist/Laboratory Assistant",
       "website": "https://www.dlslab.com",
