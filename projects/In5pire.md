@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/financial-scenarios-thumbnail.png
+image: img/in5pirelogo.png
 title: "Financial Scenario Management Application"
 date: 2024
 published: true
@@ -35,8 +35,9 @@ The application supports multiple user roles, such as **Admin**, **Accountant**,
 Here’s an example of the user interface for financial projections and dashboards:
 
 <div class="text-center p-4">
-  <img src="../img/financial-dashboard.png" class="img-thumbnail" >
-  <img src="../img/role-management.png" class="img-thumbnail" >
+  <img src="../img/in5pirescenarios.png" class="img-thumbnail" >
+  <img src="../img/in5pireprojections.png" class="img-thumbnail" >
+  <img src="../img/in5piregraphs.png" class="img-thumbnail" >
 </div>
 
 Explore the code repository below!  
