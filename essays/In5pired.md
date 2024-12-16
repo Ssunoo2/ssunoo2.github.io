@@ -14,7 +14,8 @@ labels:
   - Javascript
 essayurl: https://ssunoo2.github.io/essays/in5pired.html
 ---
-Like all endeavors in life, software engineering is riddled with its caveats, hidden complications and opportunities to grow professional skills. Working with our clients as a team of eight proved no different as we juggled the responsibilities of designing the application (with feedback from clients) and combatted issues that arose as best as we could.
+
+	Like all endeavors in life, software engineering is riddled with its caveats, hidden complications and opportunities to grow professional skills. Working with our clients as a team of eight proved no different as we juggled the responsibilities of designing the application (with feedback from clients) and combatted issues that arose as best as we could.
 
 	Working with a react front-end library for our application and using meteor as our designated framework, we were tasked with developing an application for an accounting firm that was intended to emulate an excel sheet to forecast financial health of autonomous organizations. 
 
