@@ -12,7 +12,7 @@ labels:
   - React
   - Meteor
   - Javascript
-essayurl: https://ssunoo2.github.io/essays/in5pired
+essayurl: https://ssunoo2.github.io/essays/in5pired.html
 ---
 Like all endeavors in life, software engineering is riddled with its caveats, hidden complications and opportunities to grow professional skills. Working with our clients as a team of eight proved no different as we juggled the responsibilities of designing the application (with feedback from clients) and combatted issues that arose as best as we could.
 
