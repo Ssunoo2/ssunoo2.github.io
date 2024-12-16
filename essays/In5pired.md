@@ -8,7 +8,10 @@ published: true
 labels:
   - Coding Standards
   - Communication
-  - Learning
+  - Client Interaction
+  - React
+  - Meteor
+  - Javascript
 essayurl: https://ssunoo2.github.io/essays/in5pired
 ---
 
