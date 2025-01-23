@@ -4,7 +4,7 @@ type: essay
 title: “Software Engineering and Collaboration”
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-02
-published: true
+published: false
 labels:
   - Agile Project Management
   - Ethics
