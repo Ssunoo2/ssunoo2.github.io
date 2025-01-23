@@ -4,7 +4,7 @@ type: essay
 title: “Coding as a form of Communication”
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: true
+published: false
 labels:
   - Coding Standards
   - Communication
