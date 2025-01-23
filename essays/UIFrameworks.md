@@ -4,7 +4,7 @@ type: essay
 title: “laziness the mother of frameworks?”
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
-published: true
+published: false
 labels:
   - Bootstrap 5
   - HTML
